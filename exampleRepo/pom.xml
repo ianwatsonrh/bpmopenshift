@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>generic</groupId>
   <artifactId>exampleRepo</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
   <name>exampleRepo</name>
   <repositories>
     <repository>
